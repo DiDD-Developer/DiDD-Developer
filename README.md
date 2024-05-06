@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning and trying to use frameworks such as You in my projects.js and Laravel, which help me create multifunctional web applications.
 - 💞️ I’m looking to collaborate on with developers of any level, ready to share my experience and become the best version of myself.
 - 📫 How to reach me:
-  e-mail: dimamaslov2005@vk com
-  Telegram: @DiDarkSouls
-  VK: https://vk.com/didarksouls
+  e-mail: dimamaslov2005@vk.com;
+  Telegram: @DiDarkSouls;
+  VK: https://vk.com/didarksouls.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a hard worker to the core.
 
