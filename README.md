@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DiDD-Developer
 - 👀 I’m interested in developing in programming languages such as C#, JavaScript, TypeScript and PHP.
-- 🌱 I’m currently learning and trying to use frameworks such as You in my projects.js and Laravel, which help me create multifunctional web applications.
+- 🌱 I’m currently learning and trying to use frameworks such as Vue in my projects.js and Laravel, which help me create multifunctional web applications.
 - 💞️ I’m looking to collaborate on with developers of any level, ready to share my experience and become the best version of myself.
 - 📫 How to reach me:
   e-mail: dimamaslov2005@vk.com;
@@ -12,7 +12,7 @@
 RUS:
 - 👋 Привет, я @DiDD-разработчик
 - 👀 Я заинтересован в разработке на таких языках программирования, как C#, JavaScript, TypeScript и PHP.
-- 🌱 В настоящее время я изучаю и пытаюсь использовать такие фреймворки, как You, в своих projects.js и Laravel, которые помогают мне создавать многофункциональные веб-приложения.
+- 🌱 В настоящее время я изучаю и пытаюсь использовать такие фреймворки, как Vue, в своих projects.js и Laravel, которые помогают мне создавать многофункциональные веб-приложения.
 - 💞️ Я стремлюсь к сотрудничеству с разработчиками любого уровня, готов поделиться своим опытом и стать лучшей версией самого себя.
 - 📫 Как со мной связаться:
  электронная почта: dimamaslov2005@vk.com;
